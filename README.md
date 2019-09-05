@@ -10,3 +10,4 @@ Git 기초 커맨드
 
 ## 추가 커맨드
 - `git checkout [커밋해시]` : 특정 commit을 확인하기
+- `git restore [파일명]` : 추가 내용을 버릴 때, 최종 commit version으로 복원
