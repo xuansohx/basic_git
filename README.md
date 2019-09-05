@@ -7,3 +7,6 @@ Git 기초 커맨드
 - `git add [파일명]` : staging
 - `git commit -m [메시지]` : commit
 - `git log` : commit 히스토리
+
+## 추가 커맨드
+- `git checkout [커밋해시]` : 특정 commit을 확인하기
